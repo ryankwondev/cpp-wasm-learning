@@ -1,3 +1,5 @@
+# Directory - ryankwon_pc
+
 C:\Users\kznmd\Desktop\cpp-wasm-learning\emsdk\emsdk activate latest
 
 C:\Users\kznmd\Desktop\cpp-wasm-learning\emsdk\emsdk_env.sh
