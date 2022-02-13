@@ -1,4 +1,4 @@
-# https://falsy.me/%ec%9b%b9%ec%96%b4%ec%85%88%eb%b8%94%eb%a6%ac-1-emscripten-%ec%8b%9c%ec%9e%91%ed%95%98%ea%b8%b0/
+# falsy.me/웹어셈블리-1-emscripten-시작하기/
 
 # INSTALLATION ==================================================
 
