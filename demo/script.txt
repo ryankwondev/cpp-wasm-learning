@@ -1,0 +1,7 @@
+C:\Users\kznmd\Desktop\cpp-wasm-learning\emsdk\emsdk activate latest
+
+C:\Users\kznmd\Desktop\cpp-wasm-learning\emsdk\emsdk_env.sh
+
+emcc C:\Users\kznmd\Desktop\cpp-wasm-learning\demo\hello_world.cpp -o C:\Users\kznmd\Desktop\cpp-wasm-learning\demo\hello_world.js
+
+PAUSE
